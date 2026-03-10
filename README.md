@@ -2,7 +2,7 @@
 
 ZIP format confusion technique that evades 98% of antivirus engines.
 
-**CVE-2026-0866** | [VU#976247](https://kb.cert.org/vuls/id/976247) | Published February 27, 2026
+**CVE-2026-0866** | [VU#976247](https://kb.cert.org/vuls/id/976247) | Published March 10, 2026
 
 ## The Technique
 
