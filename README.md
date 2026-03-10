@@ -24,7 +24,7 @@ Attacker:   Ignores Method field → Decompresses as DEFLATE → Recovers payloa
 |File               |Technique |VirusTotal                                                                                                  |
 |-------------------|----------|------------------------------------------------------------------------------------------------------------|
 |baseline.zip       |Valid ZIP |55/67                                                                                                       |
-|method_mismatch.zip|Zombie ZIP|[1/51](https://www.virustotal.com/gui/file/7316a4c3cd1cf183925ab4b7e77dbf52b38180ee1faf0156d7ea410f42cb5e76)|
+|method_mismatch.zip|Zombie ZIP|[1/66](https://www.virustotal.com/gui/file/7316a4c3cd1cf183925ab4b7e77dbf52b38180ee1faf0156d7ea410f42cb5e76)|
 
 98% evasion. Same payload. Same bytes. Different container.
 
