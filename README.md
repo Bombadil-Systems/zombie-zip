@@ -44,10 +44,10 @@ python3 loader_poc.py method_mismatch.zip
 
 ## Files
 
-zombie_zip.py - Generator script
-method_mismatch.zip - Pre-generated PoC with EICAR
-baseline.zip - Valid ZIP for comparison
-loader_poc.py - Demonstrates programmatic payload recovery
+zombie_zip.py - Generator script  
+method_mismatch.zip - Pre-generated PoC with EICAR  
+baseline.zip - Valid ZIP for comparison  
+loader_poc.py - Demonstrates programmatic payload recovery  
 
 ## How It Works
 
